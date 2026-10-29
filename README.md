@@ -273,6 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [game-re-skills](https://github.com/juzorei/game-re-skills) - Six game reverse-engineering skills (pointer chains, AOB signatures, Unreal/Unity offsets, external memory readers, patch-day recovery) plus the sigtool CLI that verifies them. Single-player/modding scope only.
 
 
 ## 🤝 Contribution
